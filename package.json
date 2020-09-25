@@ -1,0 +1,15 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "dependencies and packages",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michaela Kirvan",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "twit": "^2.2.11"
+  }
+}
